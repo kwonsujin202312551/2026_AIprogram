@@ -6,7 +6,7 @@ for i in range(5):
     print(" " *4*(5-i),end=' ')
     print("*"*4*(i+1))
 
-for j in range(12):
+for j in range(13):
     print(" "*2*j,end=' ')
     print("*"*4*(12-j))
     

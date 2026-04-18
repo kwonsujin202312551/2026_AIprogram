@@ -1,0 +1,34 @@
+'''
+num = 100
+print('num=', num)
+num = 200
+print('num=', num)
+num = 300
+print('num=', num)
+'''
+'''
+num =0
+for i in range(100):
+    num += 100
+    print('ith num=', i, num)
+'''
+'''
+age = int(input("나이를 입력하세요:"))
+
+if age < 20:
+    print("청소년 할인")
+elif age > 65:
+    print("경로 우대")
+
+'''
+'''
+time = int(input("시간을 입력하세요:"))
+if time < 12:
+    print("오전입니다")
+else:
+     print("오후입니다")
+'''
+num = 0
+for i in range(100):
+    num += 100
+    print('ith num=', i, num)
